@@ -1,8 +1,8 @@
 # Python  Test task
 ## How to use program
-
 Use python3 script.py
 This module Run server on 127.0.0.1:8000
+the program must be in the directory with the file Ru.txt and the subdirectory pages, where the html files are located.
 
 ## About modules
 After run this module you can use methods in browser
